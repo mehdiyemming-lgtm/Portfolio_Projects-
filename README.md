@@ -2,9 +2,10 @@
 ca c est un nouveau projet que je suis entrain de creer avec des etudiants a localhost academy en aout 2026
 
 
-## Tsble of contents 
+## Table of contents 
 - [Overview](#overview)
-- [ProjectsDescription](#Projects Description)
+- [ProjectsDescription] (#Projects-Description)
+- [How to run this project] (#how-to-run-this-project)
 
 ### Oveerview
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse quae, laborum ipsum nulla sint repellendus ratione
@@ -16,8 +17,16 @@ ca c est un nouveau projet que je suis entrain de creer avec des etudiants a loc
     nesciunt ad quasi quis animi ratione corporis obcaecati odio commodi! Corporis, officiis eligendi!
 
 
+---
+
 #### Projects Description 
     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto ex quibusdam possimus nam voluptas molestias quae
     cum, maiores asperiores? Accusamus nulla praesentium eos molestiae maxime excepturi minima repellendus harum commodi
     voluptatem, non quibusdam in ipsum enim at laboriosam vel quas culpa nobis reiciendis iste. Quisquam ullam eaque
     accusamus quo natus?
+#### how to run this project 
+to run this project, you need to run the following command:
+
+```bash 
+python --version 
+```
