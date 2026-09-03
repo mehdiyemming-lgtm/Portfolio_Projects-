@@ -8,6 +8,8 @@ ca c est un nouveau projet que je suis entrain de creer avec des etudiants a loc
 - [How to run this project](#how-to-run-this-project)
 
 ### Oveerview
+
+**Here it is text in bold**
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse quae, laborum ipsum nulla sint repellendus ratione
     possimus ipsam dolor nihil iste. Laboriosam molestias architecto cupiditate veritatis labore error nisi quisquam ex
     et neque explicabo, fugiat reprehenderit necessitatibus omnis nemo fugit sapiente voluptates impedit, non beatae
