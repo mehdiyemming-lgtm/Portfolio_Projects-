@@ -4,8 +4,8 @@ ca c est un nouveau projet que je suis entrain de creer avec des etudiants a loc
 
 ## Table of contents 
 - [Overview](#overview)
-- [ProjectsDescription] (#Projects-Description)
-- [How to run this project] (#how-to-run-this-project)
+- [ProjectsDescription](#Projects-Description)
+- [How to run this project](#how-to-run-this-project)
 
 ### Oveerview
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse quae, laborum ipsum nulla sint repellendus ratione
